@@ -1,0 +1,14 @@
+{
+	"category" : "Pharotgittest",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"myselfmoprh" ],
+	"name" : "NewMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
